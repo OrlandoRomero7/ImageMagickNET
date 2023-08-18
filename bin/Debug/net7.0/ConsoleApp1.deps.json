@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Magick.NET-Q8-x64": "13.2.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Magick.NET-Q8-x64/13.2.0": {
+        "dependencies": {
+          "Magick.NET.Core": "13.2.0"
+        },
+        "runtime": {
+          "lib/netstandard21/Magick.NET-Q8-x64.dll": {
+            "assemblyVersion": "13.2.0.0",
+            "fileVersion": "13.2.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-musl-x64/native/Magick.Native-Q8-x64.dll.so": {
+            "rid": "linux-musl-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/Magick.Native-Q8-x64.dll.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/Magick.Native-Q8-x64.dll.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/Magick.Native-Q8-x64.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "7.1.1.14"
+          }
+        }
+      },
+      "Magick.NET.Core/13.2.0": {
+        "runtime": {
+          "lib/netstandard21/Magick.NET.Core.dll": {
+            "assemblyVersion": "13.2.0.0",
+            "fileVersion": "13.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magick.NET-Q8-x64/13.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Jes9AJKCatHVp36JyML6PeTW66o0T0+ZNSYJPX3NVJErB4TpjDjr3IOUMSzuSsik4Kk26KcaSRZIDxxOJ5OTrA==",
+      "path": "magick.net-q8-x64/13.2.0",
+      "hashPath": "magick.net-q8-x64.13.2.0.nupkg.sha512"
+    },
+    "Magick.NET.Core/13.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rzCTB6J1AuG6BjPjiARgg3cv9yZnxZuwxC6V4R3AIM+JX8khlMTcQFWh0S3CO3DtQpQ00fvYrnQOz7/yxQ9mJw==",
+      "path": "magick.net.core/13.2.0",
+      "hashPath": "magick.net.core.13.2.0.nupkg.sha512"
+    }
+  }
+}

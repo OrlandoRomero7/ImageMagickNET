@@ -1,0 +1,11 @@
+C:\Users\Orlando\Downloads\Conver\ConsoleApp1.exe
+C:\Users\Orlando\Downloads\Conver\ConsoleApp1.dll
+C:\Users\Orlando\Downloads\Conver\ConsoleApp1.deps.json
+C:\Users\Orlando\Downloads\Conver\ConsoleApp1.runtimeconfig.json
+C:\Users\Orlando\Downloads\Conver\ConsoleApp1.pdb
+C:\Users\Orlando\Downloads\Conver\Magick.NET-Q8-x64.dll
+C:\Users\Orlando\Downloads\Conver\Magick.NET.Core.dll
+C:\Users\Orlando\Downloads\Conver\runtimes\linux-musl-x64\native\Magick.Native-Q8-x64.dll.so
+C:\Users\Orlando\Downloads\Conver\runtimes\linux-x64\native\Magick.Native-Q8-x64.dll.so
+C:\Users\Orlando\Downloads\Conver\runtimes\osx-x64\native\Magick.Native-Q8-x64.dll.dylib
+C:\Users\Orlando\Downloads\Conver\runtimes\win-x64\native\Magick.Native-Q8-x64.dll

@@ -1,0 +1,172 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Magick.NET-Q8-x64/13.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Magick.NET.Core": "13.2.0"
+        },
+        "compile": {
+          "lib/netstandard21/Magick.NET-Q8-x64.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard21/Magick.NET-Q8-x64.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/netstandard20/Magick.NET-Q8-x64.targets": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-musl-x64/native/Magick.Native-Q8-x64.dll.so": {
+            "assetType": "native",
+            "rid": "linux-musl-x64"
+          },
+          "runtimes/linux-x64/native/Magick.Native-Q8-x64.dll.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/native/Magick.Native-Q8-x64.dll.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/native/Magick.Native-Q8-x64.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          }
+        }
+      },
+      "Magick.NET.Core/13.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard21/Magick.NET.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard21/Magick.NET.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Magick.NET-Q8-x64/13.2.0": {
+      "sha512": "Jes9AJKCatHVp36JyML6PeTW66o0T0+ZNSYJPX3NVJErB4TpjDjr3IOUMSzuSsik4Kk26KcaSRZIDxxOJ5OTrA==",
+      "type": "package",
+      "path": "magick.net-q8-x64/13.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Magick.NET.icon.png",
+        "Notice.linux-musl.txt",
+        "Notice.linux.txt",
+        "Notice.osx.txt",
+        "Notice.win.txt",
+        "build/netstandard20/Magick.NET-Q8-x64.targets",
+        "docs/Readme.md",
+        "lib/netstandard20/Magick.NET-Q8-x64.dll",
+        "lib/netstandard20/Magick.NET-Q8-x64.xml",
+        "lib/netstandard21/Magick.NET-Q8-x64.dll",
+        "lib/netstandard21/Magick.NET-Q8-x64.xml",
+        "magick.net-q8-x64.13.2.0.nupkg.sha512",
+        "magick.net-q8-x64.nuspec",
+        "runtimes/linux-musl-x64/native/Magick.Native-Q8-x64.dll.so",
+        "runtimes/linux-x64/native/Magick.Native-Q8-x64.dll.so",
+        "runtimes/osx-x64/native/Magick.Native-Q8-x64.dll.dylib",
+        "runtimes/win-x64/native/Magick.Native-Q8-x64.dll"
+      ]
+    },
+    "Magick.NET.Core/13.2.0": {
+      "sha512": "rzCTB6J1AuG6BjPjiARgg3cv9yZnxZuwxC6V4R3AIM+JX8khlMTcQFWh0S3CO3DtQpQ00fvYrnQOz7/yxQ9mJw==",
+      "type": "package",
+      "path": "magick.net.core/13.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Copyright.txt",
+        "Magick.NET.icon.png",
+        "docs/Readme.md",
+        "lib/netstandard20/Magick.NET.Core.dll",
+        "lib/netstandard20/Magick.NET.Core.xml",
+        "lib/netstandard21/Magick.NET.Core.dll",
+        "lib/netstandard21/Magick.NET.Core.xml",
+        "magick.net.core.13.2.0.nupkg.sha512",
+        "magick.net.core.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Magick.NET-Q8-x64 >= 13.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Orlando\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Orlando\\Desktop\\Proyectos\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\Orlando\\Desktop\\Proyectos\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Orlando\\Desktop\\Proyectos\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Orlando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Magick.NET-Q8-x64": {
+            "target": "Package",
+            "version": "[13.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

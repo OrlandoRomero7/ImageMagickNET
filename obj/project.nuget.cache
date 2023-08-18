@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/FuCtVS3crkpaLkaWlRSoKxIKaZ2cEYQVjRSD2pQsUgpZVApX4YyF8mExE1SAc73f/zTf2NPRybsMUp0ic7pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Orlando\\Desktop\\Proyectos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orlando\\.nuget\\packages\\magick.net-q8-x64\\13.2.0\\magick.net-q8-x64.13.2.0.nupkg.sha512",
+    "C:\\Users\\Orlando\\.nuget\\packages\\magick.net.core\\13.2.0\\magick.net.core.13.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
