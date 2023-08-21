@@ -52,6 +52,43 @@
           }
         }
       }
+    },
+    "net7.0/win-x64": {
+      "Magick.NET-Q8-x64/13.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Magick.NET.Core": "13.2.0"
+        },
+        "compile": {
+          "lib/netstandard21/Magick.NET-Q8-x64.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard21/Magick.NET-Q8-x64.dll": {
+            "related": ".xml"
+          }
+        },
+        "native": {
+          "runtimes/win-x64/native/Magick.Native-Q8-x64.dll": {}
+        },
+        "build": {
+          "build/netstandard20/Magick.NET-Q8-x64.targets": {}
+        }
+      },
+      "Magick.NET.Core/13.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard21/Magick.NET.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard21/Magick.NET.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -160,12 +197,31 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[7.0.5, 7.0.5]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[7.0.5, 7.0.5]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[7.0.5, 7.0.5]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
       }
     }
   }

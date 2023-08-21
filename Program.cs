@@ -8,6 +8,10 @@ namespace ImageMagickExample
     {
         static void Main(string[] args)
         {
+            // Configurar la ruta a la carpeta de Ghostscript
+            string gsDirectory = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "gs");
+            MagickNET.SetGhostscriptDirectory(gsDirectory);
+
             // Ruta completa del archivo PDF de entrada
             string inputPdfPath = args[0];
 
