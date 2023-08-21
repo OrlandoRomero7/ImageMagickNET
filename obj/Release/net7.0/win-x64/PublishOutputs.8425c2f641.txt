@@ -1,0 +1,3 @@
+C:\Users\medin\Projects\ImageVUCompressorNET\CombineAndCompress\CombineAndCompress.pdb
+C:\Users\medin\Projects\ImageVUCompressorNET\CombineAndCompress\Magick.Native-Q8-x64.dll
+C:\Users\medin\Projects\ImageVUCompressorNET\CombineAndCompress\CombineAndCompress.exe

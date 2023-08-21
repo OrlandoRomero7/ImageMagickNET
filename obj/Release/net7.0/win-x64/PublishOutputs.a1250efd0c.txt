@@ -1,0 +1,3 @@
+C:\Users\medin\Projects\ImageVUCompressorNET\ConvertAndCompress\ImageMagickExample.pdb
+C:\Users\medin\Projects\ImageVUCompressorNET\ConvertAndCompress\Magick.Native-Q8-x64.dll
+C:\Users\medin\Projects\ImageVUCompressorNET\ConvertAndCompress\ImageMagickExample.exe
