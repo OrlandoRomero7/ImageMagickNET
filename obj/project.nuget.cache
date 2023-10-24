@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0M6385IzxXVejqi6XWZKOuICvUxBvRrYq8v2uTorxPXtSTXjvgDrCfw4p90InigVSOagExX3OpFNHaCouw3fNg==",
+  "dgSpecHash": "9KtSW9HaSfP3BPZzmaDuJBugvg0KrxInAn43IF4Xwdg47np8kUm3FKSw/uC51Jl/BVW50Pj5l1h5OPDjBTpAHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\medin\\Projects\\ImageVUCompressorNET\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\medin\\Projects\\ImageMagickNET\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\medin\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
     "C:\\Users\\medin\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512",

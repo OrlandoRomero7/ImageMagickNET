@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\medin\\Projects\\ImageVUCompressorNET\\ConsoleApp1.csproj": {}
+    "C:\\Users\\medin\\Projects\\ImageMagickNET\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\medin\\Projects\\ImageVUCompressorNET\\ConsoleApp1.csproj": {
+    "C:\\Users\\medin\\Projects\\ImageMagickNET\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\medin\\Projects\\ImageVUCompressorNET\\ConsoleApp1.csproj",
-        "projectName": "CombineAndCompress",
-        "projectPath": "C:\\Users\\medin\\Projects\\ImageVUCompressorNET\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\medin\\Projects\\ImageMagickNET\\ConsoleApp1.csproj",
+        "projectName": "ImageMagickExample",
+        "projectPath": "C:\\Users\\medin\\Projects\\ImageMagickNET\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\medin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\medin\\Projects\\ImageVUCompressorNET\\obj\\",
+        "outputPath": "C:\\Users\\medin\\Projects\\ImageMagickNET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\medin\\AppData\\Roaming\\NuGet\\NuGet.Config",

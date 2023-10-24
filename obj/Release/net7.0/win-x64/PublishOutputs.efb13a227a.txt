@@ -1,0 +1,3 @@
+C:\Users\medin\Projects\ImageMagickNET\ImageMagickExample\ImageMagickExample.pdb
+C:\Users\medin\Projects\ImageMagickNET\ImageMagickExample\Magick.Native-Q8-x64.dll
+C:\Users\medin\Projects\ImageMagickNET\ImageMagickExample\ImageMagickExample.exe

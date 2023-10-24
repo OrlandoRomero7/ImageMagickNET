@@ -7,4 +7,5 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\SystemFileAssociations\.pdf\shell\Convert\command]
 
-@="\"C:\\Users\\medin\\Projects\\ImageVUCompressorNET\\CombineAndCompress\\CombineAndCompress.exe\" \"%V\""
+@="\"C:\\Users\\medin\\Projects\\ImageMagickNET\\ImageMagickExample\\ImageMagickExample.exe\" \"%V\""
+
