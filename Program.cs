@@ -11,12 +11,6 @@ namespace ImageMagickExample
             string gsDirectory = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "gs");
             MagickNET.SetGhostscriptDirectory(gsDirectory);
 
-            if (args.Length < 1)
-            {
-                Console.WriteLine("Por favor, proporcione la ruta del archivo PDF de entrada como argumento.");
-                return;
-            }
-
             string inputPdfPath = args[0];
             string inputPdfName = Path.GetFileNameWithoutExtension(inputPdfPath);
             string inputPdfDirectory = Path.GetDirectoryName(inputPdfPath);
@@ -38,6 +32,7 @@ namespace ImageMagickExample
                 foreach (MagickImage image in images)
                 {
                     string outputImagePath = Path.Combine(jpegOutputPath, $"output-{pageNumber:D3}.jpg");
+                    image.Alpha(AlphaOption.Remove);
                     image.Quality = 10;
                     image.Write(outputImagePath);
                     pageNumber++;
@@ -63,8 +58,6 @@ namespace ImageMagickExample
 
                 grayscaleImages.Write(outputPdfPath);
             }
-
-            Console.WriteLine("Conversión completada.");
 
             // Eliminar la carpeta con las imágenes
             Directory.Delete(jpegOutputPath, true);

@@ -1,23 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "9KtSW9HaSfP3BPZzmaDuJBugvg0KrxInAn43IF4Xwdg47np8kUm3FKSw/uC51Jl/BVW50Pj5l1h5OPDjBTpAHQ==",
+  "dgSpecHash": "snSjfXE1WGRVq6bs5VcyAzNzB/xEVICbEsn4Otr2Gaxlvh2o0fahLFVSUbZ4biDkvWVoV/4pdtHmD2sdUr6lTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\medin\\Projects\\ImageMagickNET\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\Orlando\\Desktop\\Proyectos\\ImageMagickNET\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\medin\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
-    "C:\\Users\\medin\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512",
-    "C:\\Users\\medin\\.nuget\\packages\\magick.net-q8-x64\\13.2.0\\magick.net-q8-x64.13.2.0.nupkg.sha512",
-    "C:\\Users\\medin\\.nuget\\packages\\magick.net.core\\13.2.0\\magick.net.core.13.2.0.nupkg.sha512",
-    "C:\\Users\\medin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.7\\microsoft.netcore.app.runtime.win-x64.7.0.7.nupkg.sha512",
-    "C:\\Users\\medin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.7.nupkg.sha512",
-    "C:\\Users\\medin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.7\\microsoft.aspnetcore.app.runtime.win-x64.7.0.7.nupkg.sha512"
+    "C:\\Users\\Orlando\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\Orlando\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512",
+    "C:\\Users\\Orlando\\.nuget\\packages\\magick.net-q8-x64\\13.2.0\\magick.net-q8-x64.13.2.0.nupkg.sha512",
+    "C:\\Users\\Orlando\\.nuget\\packages\\magick.net.core\\13.2.0\\magick.net.core.13.2.0.nupkg.sha512",
+    "C:\\Users\\Orlando\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.5\\microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Orlando\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Orlando\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'BouncyCastle 1.8.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "message": "El paquete \"BouncyCastle 1.8.9\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
       "libraryId": "BouncyCastle",
       "targetGraphs": [
         "net7.0"
@@ -27,7 +27,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'iTextSharp 5.5.13.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "message": "El paquete \"iTextSharp 5.5.13.3\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
       "libraryId": "iTextSharp",
       "targetGraphs": [
         "net7.0"

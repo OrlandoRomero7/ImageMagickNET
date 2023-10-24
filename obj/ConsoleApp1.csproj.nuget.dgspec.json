@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\medin\\Projects\\ImageMagickNET\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Orlando\\Desktop\\Proyectos\\ImageMagickNET\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\medin\\Projects\\ImageMagickNET\\ConsoleApp1.csproj": {
+    "C:\\Users\\Orlando\\Desktop\\Proyectos\\ImageMagickNET\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\medin\\Projects\\ImageMagickNET\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Orlando\\Desktop\\Proyectos\\ImageMagickNET\\ConsoleApp1.csproj",
         "projectName": "ImageMagickExample",
-        "projectPath": "C:\\Users\\medin\\Projects\\ImageMagickNET\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\medin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\medin\\Projects\\ImageMagickNET\\obj\\",
+        "projectPath": "C:\\Users\\Orlando\\Desktop\\Proyectos\\ImageMagickNET\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Orlando\\Desktop\\Proyectos\\ImageMagickNET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\medin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Orlando\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,15 +63,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[7.0.7, 7.0.7]"
+              "version": "[7.0.5, 7.0.5]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[7.0.7, 7.0.7]"
+              "version": "[7.0.5, 7.0.5]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[7.0.7, 7.0.7]"
+              "version": "[7.0.5, 7.0.5]"
             }
           ],
           "frameworkReferences": {
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

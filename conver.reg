@@ -1,11 +1,11 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\SystemFileAssociations\.pdf\shell\Convert]
-"Icon"="C:\\Conver\\vucem.ico"
+"Icon"="C:\\VUDigitaliza\\vucem.ico"
 "MUIVerb"="VU Digitalizar Documento"
 "Position"="Bottom"
 
 [HKEY_CLASSES_ROOT\SystemFileAssociations\.pdf\shell\Convert\command]
 
-@="\"C:\\Users\\medin\\Projects\\ImageMagickNET\\ImageMagickExample\\ImageMagickExample.exe\" \"%V\""
+@="\"C:\\VUDigitaliza\\ImageMagickExample.exe\" \"%V\""
 
